@@ -1,0 +1,2 @@
+# files, extensions, and folders that should be ignored by git
+*.log
